@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+    padding:0;
+    margin:0;
+    font-family: 'Arial', Courier, monospace;
+}
+body{
+    padding:25x;
+    overflow-x: hidden;
+}
+img{
+  width: 100vw;
+  min-height: 100vh;
+  object-fit: cover;
+}
